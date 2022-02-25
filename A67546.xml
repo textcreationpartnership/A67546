@@ -1,0 +1,163 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The speech of the Right Honourable Sir Patience Warde, Lord Mayor elect at Guild-Hall, London, September 29, 1680 being the day of his election : together with the speech of the Right Honourable Sir Robert Clayton, Knight, the present Lord Mayor of London.</title>
+            <author>Ward, Patience, Sir, 1629-1696.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A67546</idno>
+            <idno type="STC">Wing W794</idno>
+            <idno type="STC">ESTC R14925</idno>
+            <idno type="EEBO-CITATION">12279546</idno>
+            <idno type="OCLC">ocm 12279546</idno>
+            <idno type="VID">58635</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A67546)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 58635)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 929:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The speech of the Right Honourable Sir Patience Warde, Lord Mayor elect at Guild-Hall, London, September 29, 1680 being the day of his election : together with the speech of the Right Honourable Sir Robert Clayton, Knight, the present Lord Mayor of London.</title>
+                  <author>Ward, Patience, Sir, 1629-1696.</author>
+                  <author>Clayton, Robert, Sir, 1629-1707.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Collins and Brabazon Aylmer,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint taken from colophon.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mayors --  England --  London.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="speech">
+            <pb n="1" facs="tcp:58635:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 128 -->
+            <head>THE SPEECH Of the Right Honourable Sir PATIENCE VVARDE, LORD MAYOR Elect, At <hi>Guild-Hall,</hi> LONDON, <date>
+                  <hi>September</hi> 29, 1680,</date> being the Day of his Election.</head>
+            <head type="sub">Together with the SPEECH Of the Right Honourable Sir ROBERT CLAYTON, Knight, the Preſent Lord Mayor of <hi>London.</hi>
+            </head>
+            <head>The <hi>SPEECH</hi> of the Lord Mayor Elect.</head>
+            <opener>
+               <salute>GENTLEMEN,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Cannot but be ſenſible of the Honour you have bin pleaſed to confer upon me, in calling me by your free Choice to the place of Chief Magiſtrate of this populous and famous City, and therefore am obli<g ref="char:EOLhyphen"/>ged to return you, as I do, my humble Acknowledgment.</p>
+            <p>Although when I reflect on the meanneſs of my Abilities, for the diſcharge of ſo great and difficult a Service, eſpecially under the preſent Circumſtances of Affairs, when Fears and Cares preſs on us, I might heartily wiſh't to have bin excuſed: Yet, in confidence of (and imploring) the Divine Aſſiſtance, and hopes of your favourable Acceptance of my ſincere Endeavours, I ſub<g ref="char:EOLhyphen"/>mit to the ſame.</p>
+            <p>
+               <pb n="2" facs="tcp:58635:2"/>
+               <!-- PDF PAGE 129 -->
+I do not preſume to think that I ſhall be able to come up to the Pattern my worthy Predeceſſor hath ſet before me, whoſe Excellent Conduct hath contributed much to our peaceable and ſafe meeting this Day, and well deſerves our Praiſe and Thanks; but I ſhall labour to imitate it the beſt I can.</p>
+            <p>I ſhall, according to the beſt of my Underſtanding, make the Laws of the Land, and the Conſtitutions, Uſages and Cuſtoms of this Renowned City, my Rule; the Glory of God, the Ho<g ref="char:EOLhyphen"/>nour of the King, the upholding the <hi>Proteſtant</hi> Religion, and maintaining the Peace, Liberties, and Proſperity of this City, my End in all my Adminiſtrations: And if at any time I ſhall ſeem to any of you to deviate from theſe, I entreat you to make a candid Conſtruction, and forbear ſudden and ſevere cenſuring my Actions, waiting for better Information. For if through humane Frailty, I may fail in a Circumſtance, I aſſure you, in the main and ſubſtance I ſhall never ſwerve from this my pro<g ref="char:EOLhyphen"/>poſed end.</p>
+            <p>Our Indefatigable Enemies the Church of <hi>Rome</hi> (who in for<g ref="char:EOLhyphen"/>mer times did lay and carry on Deſigns for Subverſion of the <hi>Proteſtant</hi> Religion, and Government eſtabliſhed in theſe King<g ref="char:EOLhyphen"/>doms) have of late been more active than ever. And to paſs over the <hi>Burning the City,</hi> and frequent Attempts of that kind; and the many other <hi>Plots</hi> and <hi>Conspiracies</hi> at our remoter parts, came to thoſe horrid Reſolutions of <hi>Aſſaſsinating</hi> His Majeſties Royal Perſon, and to menace even Juſtice it ſelf in the Inquiries after them, by that barbarous Murder of (the never to be for<g ref="char:EOLhyphen"/>gotten) Sir <hi>Edmond-Bury Godfrey,</hi> and Attempts on Others, in or<g ref="char:EOLhyphen"/>der to an introducing their falſe Religion: All which carry their own Evidences ſo full and great, that ſuch who will not ſhut their Eyes, have Demonſtration; and calls aloud upon us to watch againſt ſuch a People, whoſe Religion (according to their Caſuiſts) allows, if not engageth them in ſuch practices.</p>
+            <p>But beſides theſe, wherein God hath wonderfully diſap<g ref="char:EOLhyphen"/>pointed them (and I hope ever will) there is juſt cauſe to ap<g ref="char:EOLhyphen"/>prehend they are more ſecretly undermining Us, and amongſt other, ways, by being the occaſion of, or at leaſt taking occaſion from the great Impiety, Prophaneneſs and Atheiſm of late crept in amongſt Us; and the raiſing and fomenting Diviſions and Animoſities between our ſelves; and therefore, as much as in me lies, to obviate theſe their wicked purpoſes, I have propounded;</p>
+            <p>Firſt, To endeavour the Advancement of the Glory of God; and in order thereunto, I am reſolved to be Impartial in the pu<g ref="char:EOLhyphen"/>niſhment
+<pb n="3" facs="tcp:58635:2"/>
+               <!-- PDF PAGE 129 -->of Wickedneſs and Debauchery, and in countenan<g ref="char:EOLhyphen"/>cing Piety and Vertue; And entreat by your good Admonitions and Examples to make my work the more eaſy in this particu<g ref="char:EOLhyphen"/>lar.</p>
+            <p>Secondly; To promote the Honour of the King, our Reli<g ref="char:EOLhyphen"/>gion obligeth us to be good and loyal Subjects, and to give to <hi>Caeſar</hi> the things that are <hi>Caeſars;</hi> and therefore as I ſhall ſtudy to evidence my own unfeigned Loyalty to the King's Majeſty, ſo I ſhall be careful, according to Law, to puniſh all Diſloyalty in any whomſoever.</p>
+            <p>Thirdly; To uphold the <hi>Proteſtant</hi> Religion, as to which nothing will more conduce than an Union in Affection of all thoſe who profeſs the ſame Faith, and agree in the eſſential Do<g ref="char:EOLhyphen"/>ctrine of it, however they may differ touching ſome Circum<g ref="char:EOLhyphen"/>ſtantials, that we may, as honeſt Men, and good Chriſtians, maintain Love and good-will, as thoſe who mind the ſame thing, and intend the ſame Common-Good of all, and this to be the Only Meaſure of our Actions, all private and particular Apprehenſions being made ſubject thereto.</p>
+            <p>Fourthly; To the particular Concerns of this City, I ſhall make it my Buſineſs to preſerve it in Peace, and advance its Proſperity in all things. And in order thereto, ſhall from time to time deſire the Advice and Aſſiſtance of my worthy Bre<g ref="char:EOLhyphen"/>thren the Aldermen, and as often of the Common-Council as occaſion ſhall require.</p>
+            <p>And if we are careful to diſcharge our duty to God, in a ſober and pious Converſation; To the King, in a dutiful and loyal comportment; To the Religion we profeſs, by Union and Cha<g ref="char:EOLhyphen"/>rity among our ſelves; To this City, in promoting its Peace and Welfare, We need not fear but God will diſſipate and diſappoint all the Deſigns of his and our Enemies, and continue his Bleſ<g ref="char:EOLhyphen"/>ſings to us. And ſo let us pray, that his Majeſty may be bleſſed with a long and happy Reign, and this City and Kingdom with Peace and Proſperity.</p>
+         </div>
+         <div type="speech">
+            <head>The Speech of the preſent Lord-Mayor.</head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>I Rejoice to meet you here this day, where I can ſee the face of my Succeſſor, and almoſt an end of my own troubleſom Year, in which I can truly affirm I have uſed my hearty endea<g ref="char:EOLhyphen"/>vours for the carrying on and promoting the common Buſineſs
+<pb n="4" facs="tcp:58635:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 130 -->and Advantage of the City, with the ſame Integrity and In<g ref="char:EOLhyphen"/>duſtry I ever did in my own private Concerns, as far as my Health and Strength of Body would permit; and I wiſh I could ſay, they had had the deſired effects. And as for what concerns the Publick, tho I own my ſelf ſubject to many hu<g ref="char:EOLhyphen"/>mane Frailties, and pretend not, in that Hurry of Affairs that attend my Office, to be exempted from Surprize; yet I can with ſafety ſay, that in what I have done therein I have acted accord<g ref="char:EOLhyphen"/>ing to the Dictates of my own Conſcience, and the Rule of Law: And if whilſt I have followed thoſe Guides, any think I have bin miſled, my ſatisfaction is, I have them to appeal to for my vindication.</p>
+            <p>And now, <hi>Gentlemen,</hi> being almoſt out of Office, and not likely to have any other opportunity of ſpeaking to you before I take my leave of it, I muſt ſay one thing more to you.</p>
+            <p>'Tis not to tell you how troubleſom it hath bin to me, nor what hourly Cares for the Peace and Safety of this City I have laboured under, nor how I have impaired my Health and Eſtate in this Service; for all theſe every ſober Man's own Thoughts will eaſily ſuggeſt to him.</p>
+            <p>But it is to beg a favour of you, and that not for my ſelf alone, but for you, for us all, and for this great City, (whoſe Members we all are); And it is, That all of us, who pro<g ref="char:EOLhyphen"/>feſs our ſelves to be Chriſtians, would ſo far bear teſtimony to the Truth of that Profeſſion, as heartily in meekneſs and for<g ref="char:EOLhyphen"/>bearance to love one another. And tho there be Differences in Opinions, and the outward Modes and Forms of Divine Wor<g ref="char:EOLhyphen"/>ſhip; yet let not theſe have that effect, as in the leaſt to divide us, or divert us from that common Defence, which all good Proteſtants are engaged in to ſtand together. The due Regard of which, in my poor Opinion, next under God, is the only probable Way left for our Deliverance.</p>
+            <p>I beg your Pardon for the Freedom I have uſed, and am well aſſured, all my Defects will be liberally ſupplied by my worthy Succeſſor. And I ſhall pray, that God of his Goodneſs will diſperſe thoſe Clouds, that ſeem ſo much to threaten this City and nation, and to defeat all Councils that tend thereto; to bleſs his Majeſty with a long and happy Reign, and this City and Kingdom with Peace and Tranquillity.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>Thomas Collins,</hi> and <hi>Brabazon Aylmer,</hi> 1680.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
